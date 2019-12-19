@@ -1,0 +1,20 @@
+{
+  "name": "xmlzip",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test/*.spec.js"
+  },
+  "keywords": [],
+  "author": "Mac Heller-Ogden",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  },
+  "dependencies": {
+    "datazip": "0.0.1",
+    "he": "^1.2.0",
+    "node-expat": "^2.3.18"
+  }
+}
